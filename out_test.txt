@@ -1,0 +1,24 @@
+Running sample case analysis...
+--------------------------------------------------
+Case Summary:
+A person was accused of beating their friend. The accused has no prior criminal history, making this an isolated incident. The severity of the beating was described as scatological in nature.
+
+Possible IPC Sections:
+
+* Section 351 - Assault
+* Section 352 - Assault
+
+Bail Probability:
+High
+
+Reasoning:
+The legal reasoning in this case is based on the principles of Indian criminal law, specifically the Indian Penal Code (IPC). The accused is charged with assault under Sections 351 and 352 of the IPC, which define and prescribe the punishment for assault. Given that the accused has no prior criminal history, this suggests that the accused is a first-time offender, which is a significant factor in determining bail. 
+
+In Indian law, the grant of bail is governed by the Code of Criminal Procedure (CrPC), 1973. According to the CrPC, the accused has a right to be released on bail if the offense is bailable, and the grant of bail is a matter of right. Both Sections 351 and 352 of the IPC are bailable offenses, which means that the accused has a statutory right to be released on bail.
+
+The Supreme Court of India has also emphasized the importance of granting bail in cases where the accused has no criminal history and the offense is bailable. The court has held that bail is a rule and jail is an exception, and that the accused should not be denied bail unless there are strong reasons to believe that the accused will flee from justice, tamper with evidence, or commit further offenses.
+
+In this case, since the accused has no prior criminal history and the offense is bailable, the bail probability is high. The court is likely to grant bail to the accused, taking into account the fact that the accused is a first-time offender and the nature of the offense. However, the court may also impose certain conditions on the grant of bail, such as requiring the accused to appear before the court on a specified date, or to furnish a surety bond to ensure the accused's presence during the trial.
+
+Disclaimer:
+This is an AI-generated legal analysis and not legal advice.
